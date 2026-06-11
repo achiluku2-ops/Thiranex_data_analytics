@@ -1,0 +1,10 @@
+# THIRANEX AUTOMATED DATA AUDIT & KPI REPORT
+==================================================
+
+Total Rows Processed Successfully: 15
+Duplicate Row Artifacts Cleared: 0
+
+## METRIC KEY PERFORMANCE INDICATORS
+- Total Aggregated Revenue Portfolio: INR 1,637,000.00
+- Absolute Operational Profit Volume: INR 331,100.00
+- Cumulative Units Dispatched: 172 items
