@@ -1,0 +1,16 @@
+Date,OrderID,Product,Category,Region,Quantity,Unit_Price,Unit_Cost,Revenue,Profit
+2026-01-05,TX-101-,Gaming La,Electronics,North,2,75000,60000,150000,30000
+2026-01-12,TX-102,Wireless M,Accessorie,West,15,1200,800,18000,6000
+2026-01-20,TX-103,Mech Keyb,Accessorie,South,8,4500,3200,36000,10400
+2026-01-28,TX-104,27-inch M,Electronics,East,4,18000,14500,72000,14000
+2026-02-05,TX-105,Smartphon,Electronics,West,10,25000,21000,250000,40000
+2026-02-14,TX-106,Bluetooth,Accessorie,North,20,2500,1800,50000,14000
+2026-02-22,TX-107,USB-C Hub,Accessorie,South,12,1500,900,18000,7200
+2026-03-02,TX-108,Tablet,Electronics,East,6,35000,29000,210000,36000
+2026-03-15,TX-109,Gaming La,Electronics,North,3,75000,60000,225000,45000
+2026-03-28,TX-110,Wireless M,Accessorie,West,25,1200,800,30000,10000
+2026-04-05,TX-111,Smaetwatc,Electronics,South,14,12000,9500,168000,35000
+2026-04-18,TX-112,Mech Keyb,Accessorie,East,10,4500,3200,45000,13000
+2026-04-25,TX-113,27-inch M,Electronics,North,5,18000,14500,90000,17500
+2026-05-02,TX-114,Smartphon,Electronics,West,8,25000,21000,200000,32000
+2026-05-10,TX-115,Bluetooth,Accessorie,South,30,2500,1800,75000,21000
